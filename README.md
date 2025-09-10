@@ -2,12 +2,15 @@
 Automatic baccarat bot for Stake, Shuffle, BC.Game. Runs 24/7, balances micro bets, and focuses on wager (rollover) completion.
 
 
+
+
 # 🃏 Baccarat Wager Bot
 Automatic baccarat bot designed for **Stake, Shuffle, BC.Game** and more. Runs 24/7, places balanced bets, and its **only goal is to increase your wager** safely and efficiently.
 
----
 
-# 🧠 Baccarat Wager Automation – Built for Continuous Play
+
+
+# 🃏 Baccarat Wager Automation – Built for Continuous Play
 
 **Baccarat Wager Bot** is a professional automation tool we’ve been perfecting to help players **complete wager (rollover) requirements** on live casino platforms.  
 
@@ -32,12 +35,9 @@ Today, the software stands out as the **most reliable wagering assistant** for b
 ---
 
 ## 📷 Features Overview
-
-![Baccarat Bot Chart Example](https://rrsys.org/API/BaccaratWagerBot/casino-rollover-bot.png)  
-_Track your balance and wager progression live with charts._
-
-![Baccarat Bot Table Example](https://rrsys.org/API/BaccaratWagerBot/casino-rollover-bot.png)  
-_View hand count, results, bet size, and balance in a clean log table._
+<p align="center">
+<img width="500" height="4318" alt="baccarat-wager-bot" src="https://github.com/user-attachments/assets/dcbbb829-8fc1-4925-a252-fb5257b25f50" />
+</p>
 
 ---
 
@@ -67,7 +67,7 @@ _View hand count, results, bet size, and balance in a clean log table._
 
 | Starting Balance | Final Balance | Chip Size | Duration   | Wager Generated |
 |------------------|---------------|-----------|------------|-----------------|
-| $100             | $100          | $2        | 5.5 hours  | ~$4,700         |
+| $848             | $849          | $2        | 11 hours  | ~$7816        |
 
 _This shows how small bets can generate very large wager volume without affecting the balance._
 
@@ -91,6 +91,8 @@ _This shows how small bets can generate very large wager volume without affectin
 </h2>
 
 ---
+<img width="4648" height="2596" alt="casino-rollover-bot" src="https://github.com/user-attachments/assets/ee43c46e-0a82-43b1-8d4b-a90c87eb434d" />
+
 
 ## 🧩 Core Features Overview
 
@@ -109,17 +111,19 @@ You can estimate your wager output with this formula:
 
 
 
-- **Average hands per hour:** ~430  
-- **Example:** $2 chip × 430 × 5.5 hours ≈ **$4,700 wager**  
+- **Average hands per hour (based on real test):** ~355  
+- **Example:** $2 chip × 11 hours ≈ **$7,816 wager**  
+
 
 ### Quick Reference Table
 
 | Chip Size ($) | 1 Hour Wager ($) | 3 Hours ($) | 5 Hours ($) | 10 Hours ($) |
 |---------------|------------------|-------------|-------------|--------------|
-| 1             | ~430             | ~1290       | ~2150       | ~4300        |
-| 2             | ~860             | ~2580       | ~4300       | ~8600        |
-| 5             | ~2150            | ~6450       | ~10,750     | ~21,500      |
-| 10            | ~4300            | ~12,900     | ~21,500     | ~43,000      |
+| 1             | ~355             | ~1065       | ~1775       | ~3550        |
+| 2             | ~710             | ~2130       | ~3550       | ~7100        |
+| 5             | ~1775            | ~5325       | ~8875       | ~17,750      |
+| 10            | ~3550            | ~10,650     | ~17,750     | ~35,500      |
+
 
 ---
 
