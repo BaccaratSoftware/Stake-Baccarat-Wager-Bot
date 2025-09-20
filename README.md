@@ -59,7 +59,7 @@ Today, the software stands out as the **most reliable wagering assistant** for b
 
 ## 🎥 Demo Video
 
-[![Watch on YouTube](https://i.ytimg.com/vi/EwKxHeAxPmk/maxresdefault.jpg)](https://youtu.be/EwKxHeAxPmk?si=eyJwQzLtdvm14X5u)
+[![Watch on YouTube](https://i.ytimg.com/vi/DYfdfQjiESk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4wgwzn110SJdVVaedBy6an8nErQ)](https://youtu.be/DYfdfQjiESk)
 
 ---
 
